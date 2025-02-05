@@ -33,9 +33,10 @@ margin: 0 auto;
     border-bottom: 1px solid #e7e9fc;
 
 }
-.page_header{
+.page-header{
     
     display: flex;
+    align-items: center;
  
 }
 .logo {
