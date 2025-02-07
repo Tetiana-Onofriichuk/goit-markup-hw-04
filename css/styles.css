@@ -336,7 +336,10 @@ margin: 0 auto;
         color: #434455;
         
 }
-
+.icons{
+    display: flex;
+    gap: 24px;
+}
 .icon-sotial{
     display: flex;
     align-items: center;
