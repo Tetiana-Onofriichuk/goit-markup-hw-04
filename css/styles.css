@@ -242,7 +242,7 @@ margin: 0 auto;
 .punct {
     display: flex;
     width: 264px;
-        height: 224px;
+        
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
@@ -278,6 +278,7 @@ margin: 0 auto;
     border: 1px solid #8e8f99;
     border-radius: 4px;      
     background: #f4f4fd; 
+    margin-bottom: 8px;
     
     
 }
