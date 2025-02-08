@@ -353,7 +353,7 @@ margin: 0 auto;
 .icon-menu{
     display:flex;
     justify-content: center;
-    gap: 24px;
+    gap:24px;
     margin-top: 8px;
 }
 .icon-social {
@@ -529,7 +529,7 @@ gap: 16px;
     height: 40px;
     border-radius: 50%;
 }
-.icon-social-footer{
+.link-social-footer{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -539,16 +539,16 @@ gap: 16px;
     border-radius:50%;
 }
 
-.icon-social-foot:hover{
+.link-social-footer:hover{
 background:#31d0aa;
 transition:  250ms ease-in-out;
 }
 
-.icon-social-footer:hover{
+.link-social-footer:hover{
     background-color: #31d0aa;
 }
 
-.icon-social-footer:focus {
+.link-social-footer:focus {
     background-color: #31d0aa;
 }
 
