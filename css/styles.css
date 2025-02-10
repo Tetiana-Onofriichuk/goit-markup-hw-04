@@ -1,3 +1,5 @@
+
+
 body{
     font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
@@ -209,7 +211,7 @@ margin: 0 auto;
 /* section 1 end */
 
 /* -------------section 2--------------- */
-.section-two{
+.section-advantages{
     padding: 120px 0;
 }
 .visually-hidden{
@@ -459,10 +461,10 @@ transform: translateY(0);
 
 }
 
-.footer-container{
-    display: flex;
-    align-items: baseline;
-}
+    .footer-container{
+        display: flex;
+        align-items: baseline;
+    }
 
 
 .logo-footer {
